@@ -2,7 +2,7 @@
 iatest=$(expr index "$-" i)
 PATH=/home/damien/.local/bin:$PATH
 #######################################################
-# SOURCED ALIAS'S AND SCRIPTS BY zachbrowne.me
+# SOURCED ALIAS'S AND SCRIPTS
 #######################################################
 
 # Source global definitions
