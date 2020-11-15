@@ -1,4 +1,3 @@
-```
 #!/bin/bash
 iatest=$(expr index "$-" i)
 PATH=/home/damien/.local/bin:$PATH
@@ -702,4 +701,3 @@ function __setprompt
         PS4='\[${DARKGRAY}\]+\[${NOCOLOR}\] '
 }
 PROMPT_COMMAND='__setprompt'
-```
